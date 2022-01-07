@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  Calculator
 //
-//  Created by Semih Emre ÜNLÜ on 26.12.2021.
+//  Created by Canberk Bibican on 7.01.2022.
 //
 
 import UIKit
